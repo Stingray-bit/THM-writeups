@@ -1,10 +1,6 @@
 # TryHackMe Room Writeups
 
-Welcome to my repository of TryHackMe room writeups! This repository is dedicated to sharing detailed solutions, methodologies, and insights gained from completing various rooms on TryHackMe, a platform designed to teach cybersecurity through interactive learning.
-
-## About TryHackMe
-
-[TryHackMe](https://tryhackme.com) is an online platform that provides a wide range of cybersecurity training rooms covering everything from basic principles to advanced techniques. The platform uses real-world scenarios to provide engaging, hands-on cybersecurity training.
+Welcome to my TryHackMe room writeups! This repository is dedicated to sharing detailed solutions, methodologies, and insights gained from completing various rooms on TryHackMe, a platform that uses real-world scenarios to provide engaging, hands-on cybersecurity training. 
 
 ## Writeups
 
