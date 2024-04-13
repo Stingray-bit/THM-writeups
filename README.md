@@ -15,14 +15,14 @@ Each link below leads to a detailed writeup for the corresponding TryHackMe room
 
 To use these writeups:
 1. Clone this repository to your local machine using `git clone`.
-2. Navigate to the directory corresponding to the room you are interested in.
+2. Navigate to the file corresponding to the room you are interested in.
 3. Read the writeup to understand the methodology and solutions used.
 
 ## Contribution
 
 Contributions to this repository are welcome! If you have completed a TryHackMe room and would like to add your writeup, please:
 1. Fork this repository.
-2. Add your writeup in the appropriate directory.
+2. Add your writeup in the appropriate file.
 3. Submit a pull request.
 
 Please ensure your writeup is detailed, clearly written, and follows the format of existing documents in the repository.
